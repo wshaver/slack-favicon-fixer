@@ -17,6 +17,7 @@ http://extensionizr.com got me started and was useful.
 1. Download
 2. Go to chrome://extensions/ and turn on developer mode. You're using slack, you probably had it on anyway.
 3. Load the unpacked extension
+4. If you don't like the icon showing next to the URL you can click "hide from chrome menu" and it won't show there.
 
 Why didn't I publish to the store? Seemed a bit silly for what it is. This way you can see the code you're installing.
 
